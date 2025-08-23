@@ -1,0 +1,16 @@
+# ChefBot Environment Configuration
+# Copy this file to .env and fill in your actual values
+
+# OpenAI API Key (Required for AI features)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Flask Configuration
+FLASK_ENV=development
+FLASK_DEBUG=True
+
+# Database Configuration
+DATABASE_URL=chefbot.db
+
+# Server Configuration
+HOST=0.0.0.0
+PORT=5000
