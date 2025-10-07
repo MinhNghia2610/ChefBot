@@ -1,0 +1,7 @@
+/* src/index.css (Hoàn thiện) */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Không còn các quy tắc #root, .logo, v.v. */

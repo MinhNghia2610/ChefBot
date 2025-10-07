@@ -1,0 +1,25 @@
+# LOGS
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# DEPENDENCIES VÀ OUTPUT BUILD (Quan trọng nhất)
+/node_modules
+/dist
+/dist-ssr
+*.local
+
+# EDITOR/IDE (Các file cấu hình cá nhân)
+.vscode/*
+!.vscode/extensions.json  # Giữ lại file extensions.json để chia sẻ khuyến nghị extension
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
