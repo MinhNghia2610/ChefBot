@@ -24,7 +24,7 @@ def check_dependencies():
     
     required_packages = [
         'flask', 'flask-cors', 'openai', 'python-dotenv'
-    ]
+    ]   
     
     missing_packages = []
     
